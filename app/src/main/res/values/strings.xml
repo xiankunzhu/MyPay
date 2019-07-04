@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Pay</string>
+    <string name="order_summary">pizza $1000.00  total: $1000.00</string>
+</resources>
